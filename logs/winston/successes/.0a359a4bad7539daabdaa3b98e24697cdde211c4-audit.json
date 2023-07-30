@@ -44,6 +44,16 @@
             "date": 1690660800043,
             "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-02-success.log",
             "hash": "55650be75075f99c1ff08d1b51087e1ee96f3dfacb57d11537f8edd040190eed"
+        },
+        {
+            "date": 1690693035859,
+            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-10-success.log",
+            "hash": "8bdb34c9d9337d8cdc36bedcb3c962f16a3d4efd46022b6e8f0ed011373f197b"
+        },
+        {
+            "date": 1690693295244,
+            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-11-success.log",
+            "hash": "2b2b8805fd030f6db1e1d6b4a2315a49fa24da39e369f57838bc087e09fd2d08"
         }
     ],
     "hashType": "sha256"

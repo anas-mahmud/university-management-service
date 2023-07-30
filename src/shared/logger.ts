@@ -18,7 +18,7 @@ const logger = createLogger({
     label({ label: 'University Management' }),
     timestamp(),
     myFormat,
-    prettyPrint(),
+    // prettyPrint(),
   ),
   transports: [
     new transports.Console(),
