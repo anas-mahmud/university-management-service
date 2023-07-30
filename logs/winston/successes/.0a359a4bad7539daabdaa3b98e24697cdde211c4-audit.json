@@ -1,60 +1,80 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\.0a359a4bad7539daabdaa3b98e24697cdde211c4-audit.json",
+  "files": [
+    {
+      "date": 1690622896283,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-15-success.log",
+      "hash": "4c211c6800cadc27ab842ffafd6a5a7728154795b3ea1c5b7b7c9e7a0d467956"
     },
-    "auditLog": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\.0a359a4bad7539daabdaa3b98e24697cdde211c4-audit.json",
-    "files": [
-        {
-            "date": 1690622896283,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-15-success.log",
-            "hash": "4c211c6800cadc27ab842ffafd6a5a7728154795b3ea1c5b7b7c9e7a0d467956"
-        },
-        {
-            "date": 1690624843807,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-16-success.log",
-            "hash": "bb8bcb23dcf80c3d086fd91e4af3cc18946dc6d8e7c547229bf4d1e22382ee48"
-        },
-        {
-            "date": 1690628403650,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-17-success.log",
-            "hash": "c9e5cb9272f233945e1e6289a4a55f3e496a49838e8b9d7d77a21cd73041ad16"
-        },
-        {
-            "date": 1690643745556,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-21-success.log",
-            "hash": "c28be50955f90d6bc1b2df2478bafdb862168175702785709c18bc8348f5c1b1"
-        },
-        {
-            "date": 1690646508229,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-22-success.log",
-            "hash": "0d934ee8c498ddfecf0199f287de708e55d6c4354db20f18331446db5c7f9a59"
-        },
-        {
-            "date": 1690654710509,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-00-success.log",
-            "hash": "9f15aa1def82ecb038b42800f5ef8aa4160dbd470f1572520c2e402b2e49156c"
-        },
-        {
-            "date": 1690659275985,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-01-success.log",
-            "hash": "0aa69d727616fc7e1eb992f09779e7895e7dd0ec718d630af9f458502080c8b3"
-        },
-        {
-            "date": 1690660800043,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-02-success.log",
-            "hash": "55650be75075f99c1ff08d1b51087e1ee96f3dfacb57d11537f8edd040190eed"
-        },
-        {
-            "date": 1690693035859,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-10-success.log",
-            "hash": "8bdb34c9d9337d8cdc36bedcb3c962f16a3d4efd46022b6e8f0ed011373f197b"
-        },
-        {
-            "date": 1690693295244,
-            "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-11-success.log",
-            "hash": "2b2b8805fd030f6db1e1d6b4a2315a49fa24da39e369f57838bc087e09fd2d08"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1690624843807,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-16-success.log",
+      "hash": "bb8bcb23dcf80c3d086fd91e4af3cc18946dc6d8e7c547229bf4d1e22382ee48"
+    },
+    {
+      "date": 1690628403650,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-17-success.log",
+      "hash": "c9e5cb9272f233945e1e6289a4a55f3e496a49838e8b9d7d77a21cd73041ad16"
+    },
+    {
+      "date": 1690643745556,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-21-success.log",
+      "hash": "c28be50955f90d6bc1b2df2478bafdb862168175702785709c18bc8348f5c1b1"
+    },
+    {
+      "date": 1690646508229,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-29-07-22-success.log",
+      "hash": "0d934ee8c498ddfecf0199f287de708e55d6c4354db20f18331446db5c7f9a59"
+    },
+    {
+      "date": 1690654710509,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-00-success.log",
+      "hash": "9f15aa1def82ecb038b42800f5ef8aa4160dbd470f1572520c2e402b2e49156c"
+    },
+    {
+      "date": 1690659275985,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-01-success.log",
+      "hash": "0aa69d727616fc7e1eb992f09779e7895e7dd0ec718d630af9f458502080c8b3"
+    },
+    {
+      "date": 1690660800043,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-02-success.log",
+      "hash": "55650be75075f99c1ff08d1b51087e1ee96f3dfacb57d11537f8edd040190eed"
+    },
+    {
+      "date": 1690693035859,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-10-success.log",
+      "hash": "8bdb34c9d9337d8cdc36bedcb3c962f16a3d4efd46022b6e8f0ed011373f197b"
+    },
+    {
+      "date": 1690693295244,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-11-success.log",
+      "hash": "2b2b8805fd030f6db1e1d6b4a2315a49fa24da39e369f57838bc087e09fd2d08"
+    },
+    {
+      "date": 1690709014458,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-15-success.log",
+      "hash": "a03129282e8a2ca41e0fb90178df318d0031490c3b7bd452f2215608287fca7c"
+    },
+    {
+      "date": 1690712266909,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-16-success.log",
+      "hash": "55a20959a3e30c17a5ebcfea361a643ab5ba9a1d6273a819fb797daa0e874229"
+    },
+    {
+      "date": 1690719783737,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-18-success.log",
+      "hash": "95c35778a7b09f2da38b9b273973b190d334602ebcc25312d3fd3442e8d28d76"
+    },
+    {
+      "date": 1690722642211,
+      "name": "D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\logs\\winston\\successes\\UM-2023-30-07-19-success.log",
+      "hash": "82deb62d993d8a0a9fe57cee66751dbbb7528aa1377f79a9bf5f0ffc09ce667f"
+    }
+  ],
+  "hashType": "sha256"
 }
