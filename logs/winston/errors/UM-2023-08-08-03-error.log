@@ -1,0 +1,96 @@
+{
+  issues: [
+    {
+      code: 'invalid_type',
+      expected: 'number',
+      received: 'string',
+      path: [ 'body', 'year' ],
+      message: 'Expected number, received string'
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: 'globalErrorHandler ~ [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "number",\n' +
+    '    "received": "string",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "year"\n' +
+    '    ],\n' +
+    '    "message": "Expected number, received string"\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "number",\n' +
+    '    "received": "string",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "year"\n' +
+    '    ],\n' +
+    '    "message": "Expected number, received string"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodObject.parseAsync (D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'University Management !!',
+  timestamp: '2023-08-07T21:30:57.256Z'
+}
+{
+  issues: [
+    {
+      received: '04',
+      code: 'invalid_enum_value',
+      options: [ '01', '02', '03' ],
+      path: [ 'body', 'code' ],
+      message: "Invalid enum value. Expected '01' | '02' | '03', received '04'"
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: 'globalErrorHandler ~ [\n' +
+    '  {\n' +
+    '    "received": "04",\n' +
+    '    "code": "invalid_enum_value",\n' +
+    '    "options": [\n' +
+    '      "01",\n' +
+    '      "02",\n' +
+    '      "03"\n' +
+    '    ],\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "code"\n' +
+    '    ],\n' +
+    `    "message": "Invalid enum value. Expected '01' | '02' | '03', received '04'"\n` +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "received": "04",\n' +
+    '    "code": "invalid_enum_value",\n' +
+    '    "options": [\n' +
+    '      "01",\n' +
+    '      "02",\n' +
+    '      "03"\n' +
+    '    ],\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "code"\n' +
+    '    ],\n' +
+    `    "message": "Invalid enum value. Expected '01' | '02' | '03', received '04'"\n` +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodObject.parseAsync (D:\\Programming hero\\Apollo Level 2\\Backend Braniac\\university-management-service\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'University Management !!',
+  timestamp: '2023-08-07T21:38:44.334Z'
+}
